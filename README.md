@@ -1,5 +1,10 @@
 # CYBs internsystem (backend)
 
+## Archived
+
+As of August 2024, this repository has been replaced by a new implementation of cyb.no.
+
+## Introduksjon
 Dette prosjektet tilbyr en rekke tjenester til hjelp for Cybernetisk Selskab.
 I hovedsak tilbyr dette prosjektet kun et API, som brukes av blant annet
 https://github.com/cybernetisk/internsystem-frontend.
